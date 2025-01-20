@@ -31,6 +31,8 @@ export const assets = {
         link: require("@images/home/myLatestProject/projects/link1.png"),
         figma1: require("@images/home/myLatestProject/projects/mob1.png"),
         asm: require("@images/home/myLatestProject/projects/ASM.png"),
+        six: require("@images/home/myLatestProject/projects/six.png"),
+        pmi: require("@images/home/myLatestProject/projects/pmi.png"),
         great: require("@images/home/myLatestProject/projects/great.png")
       
       },

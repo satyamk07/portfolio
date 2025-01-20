@@ -17,6 +17,13 @@ const tabs = [
         image: assets.home.myLatestProject.suitcase,
         data: [
 
+            
+            {
+                title: 'Six Sigma Yellow Belt',
+                image: assets.home.myLatestProject.projects.six,
+                repositoryUrl: "https://www.sixsigmacouncil.org/",
+            },
+            
             {
                 title: 'Basic of SCRUM',
                 image: assets.home.myLatestProject.projects.pmi,

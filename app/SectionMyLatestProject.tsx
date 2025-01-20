@@ -16,6 +16,13 @@ const tabs = [
         name: 'Licences',
         image: assets.home.myLatestProject.suitcase,
         data: [
+
+            {
+                title: 'Basic of SCRUM',
+                image: assets.home.myLatestProject.projects.pmi,
+                repositoryUrl: "https://learning.pmi.org/",
+            },
+
             {
                 title: 'Customer Relation Management (CRM)',
                 image: assets.home.myLatestProject.projects.crm,
